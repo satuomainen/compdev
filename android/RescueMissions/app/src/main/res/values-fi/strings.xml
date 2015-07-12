@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acknowledgements_title">Tietoja</string>
+    <string name="feed_start_toast">Haetaan hälytystapahtumia</string>
+    <string name="feed_success_toast">Hälytystapahtumat haettu</string>
+    <string name="menu_help_about">Tietoja</string>
+    <string name="title_activity_rescue_missions">112 Hälytykset</string>
+    <string name="feed_failure">Hälytystapahtumien hakeminen epäonnistui</string>
+</resources>

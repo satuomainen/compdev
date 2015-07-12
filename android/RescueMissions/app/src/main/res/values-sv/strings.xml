@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acknowledgements_title">Uppgifter</string>
+    <string name="feed_start_toast">Laddar larmuppgifter</string>
+    <string name="feed_success_toast">Larmuppgifter har laddats</string>
+    <string name="menu_help_about">Uppgifter</string>
+    <string name="title_activity_rescue_missions">112 Larm</string>
+    <string name="feed_failure">Det gick inte att ladda larmupgifter</string>
+</resources>

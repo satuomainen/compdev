@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">RescueMissions</string>
+    <string name="title_activity_rescue_missions">112 Hälytykset</string>
+    <string name="feed_url" translatable="false">http://aula.pelastustoimi.net/112info-georss/</string>
+
+    <string name="alarm" translatable="false">palohälytys</string>
+    <string name="animal_rescue" translatable="false">eläintehtävät</string>
+    <string name="car" translatable="false">tieliikenneonnettomuus</string>
+    <string name="boat" translatable="false">vesiliikenneonnettomuus</string>
+    <string name="train" translatable="false">raideliikenneonnettomuus</string>
+    <string name="fire" translatable="false">rakennuspalo</string>
+    <string name="forest_fire" translatable="false">maastopalo</string>
+    <string name="fire_generic" translatable="false">tulipalo</string>
+    <string name="car_fire" translatable="false">liikennevälinepalo</string>
+    <string name="human_rescue" translatable="false">ihmisen pelastaminen</string>
+    <string name="tree" translatable="false">vahingontorjunta</string>
+
+    <string name="feed_start_toast">Haetaan hälytystapahtumia</string>
+    <string name="feed_success_toast">Hälytystapahtumat haettu</string>
+    <string name="feed_failure">Hälytystapahtumien hakeminen epäonnistui</string>
+
+    <string name="menu_help_about">Tietoja</string>
+    <string name="acknowledgements_title">Tietoja</string>
+    <string name="acknowledgements_message" translatable="false">
+        Icons used in this application are made by OCHA (http://www.unocha.org) and Freepik
+        (http://www.freepik.com), and they are licensed under Creative Commons BY 3.0.
+    </string>
+</resources>
