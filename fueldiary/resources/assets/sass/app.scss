@@ -1,0 +1,37 @@
+/* Import Bootstrap Styles */
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$brand-font: 'Trocchi', serif;
+
+body {
+  background-color: #434343;
+}
+
+.navbar-brand {
+  font-family: $brand-font;
+}
+
+h1 {
+  font-family: $brand-font;
+  font-size: 4.5em;
+  text-align: center;
+  color: #fff;
+}
+
+.login-panel {
+  margin: 20px 20px;
+
+  button[type="submit"], a {
+    margin-top: 15px;
+  }
+
+  .row {
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 6px;
+  }
+}
+
+table.fillups {
+  background-color: #fff;
+}
