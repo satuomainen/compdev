@@ -12,3 +12,7 @@ google\_maps\_key. Like a res/values/google\_maps\_api.xmls, for example:
 
 ### Acknowledgements
 * Icons used in RescueMissions are made by [OCHA](http://www.unocha.org "OCHA") and [Freepik](http://www.freepik.com) from [Flaticon](http://www.flaticon.com) are licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0 "Creative Commons BY 3.0")
+
+## fueldiary
+A web application made with Laravel 5.1 that keeps track of your fuel fill-ups. Not an app, just a simple responsibe web
+page that works on mobile browsers.
